@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(255, 249, 249);
+}
+div
+header {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: rgb(180, 51, 51);
+
+}
